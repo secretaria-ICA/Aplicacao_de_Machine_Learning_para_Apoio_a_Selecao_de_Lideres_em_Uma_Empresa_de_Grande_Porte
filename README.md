@@ -1,6 +1,6 @@
 # Aplicacao_de_Machine_Learning_para_Apoio_a_Selecao_de_Lideres_em_Uma_Empresa_de_Grande_Porte
 
-#### Alunos: Alessandro Melgaço Barbosa Filho eBeatriz Ventorini Lins de Albuquerque.
+#### Alunos: Alessandro Melgaço Barbosa Filho e Beatriz Ventorini Lins de Albuquerque.
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler)
 
 ---
